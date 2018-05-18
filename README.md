@@ -1,4 +1,8 @@
 # Mimmit koodaa Git-koulutus
+* Alkuperäinen runko ja ajatus by Natanael Sinisalo (https://github.com/nsinisalo).
+* Tarkemmat ohjeet by Sauli Rajala (https://github.com/saulirajala)
+* Apukouluttajana Tero Paajoki (https://github.com/teropaajoki)
+
 ## Lauantai 19.5.
 
 1.	Mikä ihmeen Git?
